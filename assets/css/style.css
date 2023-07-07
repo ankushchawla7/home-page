@@ -535,6 +535,8 @@ h2 {
 } */
 input {
     padding: 10px 0 8px 17px;
+    border: 1px solid #999999;
+    border-radius: 5px;
 }
 
 .mail_box {
@@ -545,7 +547,10 @@ input {
 .text_area {
     margin-top: 16px;
     resize: none;
-    padding: 10px 177px 8px 17px;
+    padding: 10px 50px 8px 17px;
+    border: 1px solid #999999;
+    border-radius: 5px;
+
 }
 
 ::placeholder {
